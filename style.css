@@ -49,3 +49,14 @@ menu{
     background-color: aquamarine;
 
 }
+
+/* ********************* FAZENDO O CORPO DO SITE************************* */
+
+/*  ajusando o tamanho da imagem */
+.imagem{ 
+    width: 400px;
+    height: auto;
+}
+
+body{
+    background-color: pink(230, 230, 230);
